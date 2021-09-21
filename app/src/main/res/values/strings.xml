@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinExerciseSecond</string>
+    <string name="size_of_unique_numbers_is">Size of unique numbers is</string>
+</resources>
